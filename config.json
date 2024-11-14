@@ -1,0 +1,9 @@
+{
+    "remote_url": "https://api.domain.com",
+    "domain": "sub.domain.com",
+    "token": "<token>",
+    "crt": "certificates/sub.domain.com.crt",
+    "key": "certificates/sub.domain.com.key",
+    "cab": null,
+    "metadata": "metadata.json"
+}
